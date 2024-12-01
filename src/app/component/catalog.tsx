@@ -12,7 +12,7 @@ const Catalog = () => {
   return (
     <>
       <div className="container ]">
-        <div className="w-[358px] h-[975px] mx-auto   xs:w-[358px] xs:h-[975px] xs:mx-[32px]  sm:w-[500px] sm:h-[935px] sm:mx-auto xl:w-[1239px] xl:h-[866px]  md:w-[710px]  md:mx-auto lg:w-[900px]  bg-[#F0F0F0] rounded-3xl   xl:ml-[100px] 2xl:pl-[    ] lg:mx-auto lg:h-[680px] md:h-[510px]">
+        <div className="w-[358px] h-[975px] mx-auto     sm:w-[500px] sm:h-[935px] sm:mx-auto xl:w-[1239px] xl:h-[866px]  md:w-[710px]  md:mx-auto lg:w-[900px]  bg-[#F0F0F0] rounded-3xl   xl:ml-[100px] 2xl:pl-[    ] lg:mx-auto lg:h-[680px] md:h-[510px]">
           <div className="  justify-around items-center ">
             <div className=" col-span-3 lg:w-687px lg:h-[85px] grid items-center justify-around lg:py-[70px] py-[30px]">
               <h2 className="font-bold text-[32px] leading-[36px] lg:text-[48px] lg:leading-[57.6px] text-center">

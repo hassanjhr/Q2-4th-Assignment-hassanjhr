@@ -9,7 +9,7 @@ const Sponsers = () => {
   return (
     <>
       <div className="  h-[200px] top-[951px] bg-black  sm:h-[122px] sm:top-[797px] md:h-[122px] md:top-[797px] sm:mt-[190px] md:mt-[550px] lg:mt-0 lg:pt-10 xl:pt-0  flex mx-auto justify-between ">
-        <div className="flex items-center  flex-wrap mx-auto justify-between pt-[80px] sm:pt-0 pl-2 xs:pt-0">
+        <div className="flex items-center  flex-wrap mx-auto justify-between pt-[80px] sm:pt-0 pl-2 ">
           <ul className=" flex gap-[32px] lg:gap-[106px] flex-wrap">
             <i>
               <Image

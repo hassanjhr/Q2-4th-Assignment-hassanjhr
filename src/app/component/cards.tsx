@@ -10,14 +10,14 @@ const Cards = () => {
   return (
     <>
       <div className=" h-auto  sm:h-[444px] ">
-        <div className="flex flex-wrap justify-center  xs:justify-around gap-4 ">
+        <div className="flex flex-wrap justify-center  gap-4 ">
           {/* 1 */}
           <div className="hidden sm:flex"></div>
           <div className="hidden sm:flex"></div>
 
           <div className="">
             <div className="">
-              <div className=" w-[175px] h-[185px]  xs:w-[198px] sm:w-[295px] xs:h-[200.01px] sm:h-[298px] top-[1217px] sm:top-[1104px] left-4 sm:left-[100px] rounded-[13.42px] sm:rounded-[20px] bg-[#F0EEED]">
+              <div className=" w-[175px] h-[185px]   sm:w-[295px]  sm:h-[298px] top-[1217px] sm:top-[1104px] left-4 sm:left-[100px] rounded-[13.42px] sm:rounded-[20px] bg-[#F0EEED]">
                 <Image src={Shirt1} alt="shirt" />
               </div>
               <div className="w-[180px] sm:w-[225px] h-[22px] sm:h-[27px] top-[14270.01px] sm:top-[1418px] left-[16px] sm:left-[100px] mt-[10px] sm:mt-4 ">
@@ -42,7 +42,7 @@ const Cards = () => {
           {/* 2 */}
           <div className="">
             <div className="">
-              <div className="w-[175px] h-[185px] xs:w-[198px] sm:w-[295px] xs:h-[200.01px] sm:h-[298px] top-[1217px] sm:top-[1104px] left-4 sm:left-[100px] rounded-[13.42px] sm:rounded-[20px] bg-[#F0EEED]">
+              <div className="w-[175px] h-[185px] sm:w-[295px]  sm:h-[298px] top-[1217px] sm:top-[1104px] left-4 sm:left-[100px] rounded-[13.42px] sm:rounded-[20px] bg-[#F0EEED]">
                 <Image src={c2} alt="shirt" />
               </div>
               <div className="w-[180px] sm:w-[225px] h-[22px] sm:h-[27px] top-[14270.01px] sm:top-[1418px] left-[16px] sm:left-[100px] mt-[10px] sm:mt-4 ">

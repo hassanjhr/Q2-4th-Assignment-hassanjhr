@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <>
       {/* section 1 */}
-      <div className="  sm:mx-[100px] md:mx-[100px] mx-auto xs:mx-auto xs:top-[4100px]   lg:flex   w-[358px] h-[300px] top-[3490px] left-[16px] rounded-[20px] sm:w-[358px] sm:h-[300px]   sm:top-[4550px] sm:left-[16px]  sm:rounded-[20px] md:flex sm:justify-between    md:w-[550px] md:h-[180px] md:top-[4575px]  md:left-[2px] md:rounded-[20px] md:justify-between md:py-[36px] md:px-[25px]   xl:flex xl:w-[1120px] 2xl:w-[1240px] xl:h-[180px] xl:top-[3881px] xl:left-[20px] xl:rounded-[20px] xl:justify-between xl:py-[36px] xl:px-[64px]  bg-black absolute   lg:w-[800px] lg:h-[180px] lg:top-[3950px] lg:left-[2px] lg:rounded-[20px] lg:justify-between lg:py-[36px] lg:px-[64px]">
+      <div className="  sm:mx-[100px] md:mx-[100px] mx-auto     lg:flex   w-[358px] h-[300px] top-[3490px] left-[16px] rounded-[20px] sm:w-[358px] sm:h-[300px]   sm:top-[4550px] sm:left-[16px]  sm:rounded-[20px] md:flex sm:justify-between    md:w-[550px] md:h-[180px] md:top-[4575px]  md:left-[2px] md:rounded-[20px] md:justify-between md:py-[36px] md:px-[25px]   xl:flex xl:w-[1120px] 2xl:w-[1240px] xl:h-[180px] xl:top-[3881px] xl:left-[20px] xl:rounded-[20px] xl:justify-between xl:py-[36px] xl:px-[64px]  bg-black absolute   lg:w-[800px] lg:h-[180px] lg:top-[3950px] lg:left-[2px] lg:rounded-[20px] lg:justify-between lg:py-[36px] lg:px-[64px]">
         {/* 1 */}
         <div className="lg:w-[600px] lg:h-[94px] md:w-[600px] md:h-[94px] sm:w-[358px] sm:h-[105px]  ">
           <h2 className="pt-[10px] md:pt-0   text-white font-bold md:text-[16px] lg:text-[25px] xl:text-[40px] md:leading-[45px] sm:text-[30px] sm:px-[45px] sm:top-[32px] sm:left-[24px] text-[30px] px-[45px] top-[32px] left-[24px]">
