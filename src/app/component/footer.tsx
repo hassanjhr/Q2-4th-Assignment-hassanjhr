@@ -52,7 +52,7 @@ const Footer = () => {
             />
           </div>
 
-          <button className=" w-[250px]  ml-[40px] md:ml-0 md:w-[245px] h-[45px] lg:w-[332px] md:h-[46px] mt-[14px] bg-[#FFFFFF] text-[#000000] md:font-medium md:text-[16px] md:leading-[21.6px] rounded-[62px]">
+          <button className=" w-[240px]  ml-[50px] md:ml-0 md:w-[245px] h-[45px] lg:w-[332px] md:h-[46px] mt-[14px] bg-[#FFFFFF] text-[#000000] md:font-medium md:text-[16px] md:leading-[21.6px] rounded-[62px]">
             Subscribe to Newsletter
           </button>
         </div>
