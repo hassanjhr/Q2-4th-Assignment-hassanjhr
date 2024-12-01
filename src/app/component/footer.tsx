@@ -72,7 +72,7 @@ const Footer = () => {
 
             <div className="w-[357px] h-[40px] pt-[8px] lg:w-[248px] md:w-[160px]  md:h-[68px] md:pt-[30px]">
               <p className="font-normal text-[14px] leading-[20px] lg:text-[14px] md:text-[12px] md:leading-[22px] text-[#00000099]">
-                We have clothes that suits your style and which you're proud to
+                We have clothes that suits your style and which you are proud to
                 wear. From women to men.
               </p>
             </div>
