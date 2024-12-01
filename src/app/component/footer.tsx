@@ -138,12 +138,12 @@ const Footer = () => {
         </div>
 
         {/* HORIZONTAL LINE */}
-        <div className="h-[10px] md:h-[20px] text-center flex xl:justify-center xl: xl:ml-[0px] ml-[50px] lg:ml-[100px] md:ml-[95px]  md:pt-[300px]  lg:pt-[100px]  pr-[54px]  pb-[16px]  mt-[40px] md:mt-[70px] xl:pl-[0px]  ">
-          <h2 className="xl:w-[1100px] 2xl:w-[1230px] lg:w-[800px] w-[550px]   top-[1524px]   left-[16px]  flex justify-center   border-t-2 bg-[#0000001A] "></h2>
+        <div className="h-[10px] md:h-[20px] text-center flex xl:justify-center xl: xl:ml-[0px] ml-[50px] lg:ml-[100px] md:ml-[95px]  md:pt-[300px]  lg:pt-[100px]  pr-[54px]  pb-[16px]  mt-[40px] md:mt-[70px] xl:pl-[10px]  ">
+          <h2 className="xl:w-[1250px] 2xl:w-[1230px] lg:w-[800px] w-[550px]   top-[1524px]   left-[16px]  flex justify-center   border-t-2 bg-[#0000001A] "></h2>
         </div>
 
         {/* end part */}
-        <div className="xl:w-[1190px] 2xl:w-[1240px] lg:w-[800px] md:flex md:justify-between md:mx-[101px]  lg:mt-[10px] mx-[62px] ">
+        <div className="xl:w-[1270px] 2xl:w-[1240px] lg:w-[800px] md:flex md:justify-between md:mx-[101px]  lg:mt-[10px] mx-[62px] ">
           <h2 className="font-normal text-[14px] md:text-[14px] md:leading-[18.9px] text-[#00000099] my-[13px]">
             Shop.co © 2000-2023, All Rights Reserved
           </h2>
